@@ -1,12 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/WXeqVgks)
 
-# final-project-skeleton
+# final-project-OmniBot
 
 * Team Number: Team 9
 * Team Name: Oranges
 * Team Members: Izzy, Helena, and Vidhu
 * GitHub Repository URL: [https://github.com/upenn-embedded/final-project-s25-oranges](https://github.com/upenn-embedded/final-project-s25-oranges)
-* GitHub Pages Website URL: [for final submission]
+* GitHub Pages Website URL: [\[for final submission\]](https://izzyhuang215.github.io/ihuangg_omnibot.github.io/)
 
 ## Final Project Proposal
 
